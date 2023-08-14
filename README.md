@@ -1,5 +1,7 @@
 # To-do-list
+
 The goal
+
 The goal of this project will be to summarize our current knowledge of :
 
 Semantic HTML, SCSS
